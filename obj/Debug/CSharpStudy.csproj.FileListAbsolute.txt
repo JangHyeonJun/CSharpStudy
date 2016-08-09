@@ -1,0 +1,5 @@
+c:\users\1\documents\visual studio 2015\Projects\CSharpStudy\bin\Debug\CSharpStudy.exe.config
+c:\users\1\documents\visual studio 2015\Projects\CSharpStudy\bin\Debug\CSharpStudy.exe
+c:\users\1\documents\visual studio 2015\Projects\CSharpStudy\bin\Debug\CSharpStudy.pdb
+c:\users\1\documents\visual studio 2015\Projects\CSharpStudy\obj\Debug\CSharpStudy.exe
+c:\users\1\documents\visual studio 2015\Projects\CSharpStudy\obj\Debug\CSharpStudy.pdb

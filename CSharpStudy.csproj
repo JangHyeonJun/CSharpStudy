@@ -45,7 +45,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Study.cs" />
+    <Compile Include="Study_Async_1.cs" />
+    <Compile Include="Study_Character.cs" />
+    <Compile Include="Study_Event.cs" />
+    <Compile Include="Study_Generic.cs" />
+    <Compile Include="Study_Interface.cs" />
+    <Compile Include="Study_Lambda.cs" />
+    <Compile Include="Study_Property.cs" />
+    <Compile Include="Study_Struct_Constructor.cs" />
+    <Compile Include="Study_Task_1.cs" />
+    <Compile Include="Study_Task_2.cs" />
     <Compile Include="Study_Virtual_Static.cs" />
+    <Compile Include="Study_Yield.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

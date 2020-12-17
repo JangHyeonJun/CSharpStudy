@@ -9,3 +9,4 @@ E:\MyGit\CSharpStudy\bin\Debug\CSharpStudy.pdb
 E:\MyGit\CSharpStudy\obj\Debug\CSharpStudy.csprojAssemblyReference.cache
 E:\MyGit\CSharpStudy\obj\Debug\CSharpStudy.exe
 E:\MyGit\CSharpStudy\obj\Debug\CSharpStudy.pdb
+E:\MyGit\CSharpStudy\obj\Debug\CSharpStudy.csproj.CoreCompileInputs.cache

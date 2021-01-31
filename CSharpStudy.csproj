@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="EffectiveCSharp_1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Study.cs" />
     <Compile Include="Study_Async_1.cs" />

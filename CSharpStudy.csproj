@@ -49,6 +49,7 @@
     <Compile Include="Study.cs" />
     <Compile Include="Study_Async_1.cs" />
     <Compile Include="Study_Async_2.cs" />
+    <Compile Include="Study_Async_3.cs" />
     <Compile Include="Study_BitArray.cs" />
     <Compile Include="Study_Bitvector32.cs" />
     <Compile Include="Study_Character.cs" />
